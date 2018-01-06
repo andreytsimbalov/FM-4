@@ -1,0 +1,279 @@
+﻿Log file open, 01/06/18 15:25:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-430422826) SRandInit(-430422825).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.291460
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogModuleManager: Warning: ModuleManager: Module 'OnlineSubsystemLAN' not found - its StaticallyLinkedModuleInitializers function is null.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:49:34
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Users/SG/Desktop/Game1/WindowsNoEditor/MyProject2/Binaries/Win64/
+LogInit: Installed Engine Build: 0
+LogInit: Presizing for max 2097152 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false
+LogInit: Object subsystem initialized
+[2018.01.06-12.25.56:865][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2018.01.06-12.25.56:865][  0]LogInit: Applying CVar settings loaded from the selected device profile: [WindowsNoEditor]
+[2018.01.06-12.25.56:888][  0]LogInit: Computer: LAPTOP-9HV3FO5D
+[2018.01.06-12.25.56:888][  0]LogInit: User: SG
+[2018.01.06-12.25.56:888][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.06-12.25.56:888][  0]LogInit: High frequency timer resolution =1.562452 MHz
+[2018.01.06-12.25.56:889][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.01.06-12.25.56:889][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2018.01.06-12.25.56:889][  0]LogMemory: Process Physical Memory: 97.20 MB used, 97.20 MB peak
+[2018.01.06-12.25.56:889][  0]LogMemory: Process Virtual Memory: 111.73 MB used, 111.73 MB peak
+[2018.01.06-12.25.56:889][  0]LogMemory: Physical Memory: 2559.35 MB used,  1449.79 MB free, 4009.14 MB total
+[2018.01.06-12.25.56:889][  0]LogMemory: Virtual Memory: 328.89 MB used,  1449.79 MB free, 134217728.00 MB total
+[2018.01.06-12.25.56:994][  0]LogInit: Using OS detected language (ru-RU).
+[2018.01.06-12.25.56:994][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.01.06-12.25.56:995][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.01.06-12.25.56:996][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.01.06-12.25.57:233][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.06-12.25.57:252][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics' (Feature Level 11_0)
+[2018.01.06-12.25.57:253][  0]LogD3D11RHI:       114/0/2004 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.01.06-12.25.57:259][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.06-12.25.57:259][  0]LogD3D11RHI:       0/0/2004 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.06-12.25.57:259][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.06-12.25.57:274][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.06-12.25.57:275][  0]LogD3D11RHI:     GPU DeviceId: 0x22b1 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.06-12.25.57:275][  0]LogWindows: EnumDisplayDevices:
+[2018.01.06-12.25.57:275][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:1 D:1)
+[2018.01.06-12.25.57:277][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.01.06-12.25.57:278][  0]LogWindows:    2. 'Intel(R) HD Graphics' (P:0 D:0)
+[2018.01.06-12.25.57:279][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.01.06-12.25.57:279][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics
+[2018.01.06-12.25.57:279][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2018.01.06-12.25.57:279][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2018.01.06-12.25.57:279][  0]LogRHI: Texture pool is 781 MB (70% of 1116 MB)
+[2018.01.06-12.25.57:293][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.06-12.25.57:306][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.01.06-12.25.57:488][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.06-12.25.57:489][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.06-12.25.57:508][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.06-12.25.57:508][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.06-12.25.58:401][  0]LogAssetRegistry: FAssetRegistry took 0.0684 seconds to start up
+[2018.01.06-12.25.58:769][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.008797 seconds
+[2018.01.06-12.25.58:770][  0]LogPakFile: New pak file ../../../MyProject2/Content/Paks/MyProject2-WindowsNoEditor.pak added to pak precacher.
+[2018.01.06-12.25.58:824][  0]LogInit: Selected Device Profile: [WindowsNoEditor]
+[2018.01.06-12.25.58:850][  0]LogContentStreaming: Texture pool size is 1000.00 MB
+[2018.01.06-12.25.59:050][  0]LogNetVersion: MyProject2 , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 237949846)
+[2018.01.06-12.25.59:383][  0]LogMoviePlayer: Initializing movie player
+[2018.01.06-12.25.59:492][  0]LogOcInput: OculusInput pre-init called
+[2018.01.06-12.25.59:492][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.06-12.25.59:507][  0]LogUObjectArray: 30846 objects as part of root set at end of initial load.
+[2018.01.06-12.25.59:507][  0]LogUObjectAllocator: 6114800 out of 0 bytes used by permanent object pool.
+[2018.01.06-12.25.59:507][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.06-12.25.59:519][  0]LogEngine: Initializing Engine...
+[2018.01.06-12.25.59:527][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.06-12.26.00:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.06-12.26.00:760][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.06-12.26.00:841][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.06-12.26.01:323][  0]LogInit: FAudioDevice initialized.
+[2018.01.06-12.26.01:335][  0]LogInit: Texture streaming: Enabled
+[2018.01.06-12.26.01:401][  0]LogInit: Display: Game Engine Initialized.
+[2018.01.06-12.26.01:401][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.06-12.26.01:436][  0]LogInit: Display: Starting Game.
+[2018.01.06-12.26.01:436][  0]LogNet: Browse: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.01.06-12.26.01:436][  0]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?Name=Player
+[2018.01.06-12.26.01:472][  0]LogMemory: Platform Memory Stats for WindowsNoEditor
+[2018.01.06-12.26.01:472][  0]LogMemory: Process Physical Memory: 220.62 MB used, 294.54 MB peak
+[2018.01.06-12.26.01:472][  0]LogMemory: Process Virtual Memory: 305.19 MB used, 356.01 MB peak
+[2018.01.06-12.26.01:472][  0]LogMemory: Physical Memory: 2690.79 MB used,  1318.35 MB free, 4009.14 MB total
+[2018.01.06-12.26.01:472][  0]LogMemory: Virtual Memory: 631.59 MB used,  1318.35 MB free, 134217728.00 MB total
+[2018.01.06-12.26.01:472][  0]LogMemory: 
+[2018.01.06-12.26.01:472][  0]FMallocBinned2 Mem report
+[2018.01.06-12.26.01:472][  0]Small Pool
+[2018.01.06-12.26.01:472][  0]Requested Allocations: 23.467239mb  (including block size padding)
+[2018.01.06-12.26.01:472][  0]OS Allocated: 27.062500mb
+[2018.01.06-12.26.01:472][  0]Large Pool
+[2018.01.06-12.26.01:472][  0]Requested Allocations: 68.205231mb
+[2018.01.06-12.26.01:472][  0]OS Allocated: 68.750000mb
+[2018.01.06-12.26.01:472][  0]OS Page Allocator
+[2018.01.06-12.26.01:472][  0]Cached free pages: 0.000000mb
+[2018.01.06-12.26.02:210][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.06-12.26.02:263][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.06-12.26.02:289][  0]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.06-15.26.02
+[2018.01.06-12.26.02:298][  0]LogWorld: Bringing up level for play took: 0.033199
+[2018.01.06-12.26.02:308][  0]LogLoad: Took 0.871760 seconds to LoadMap(/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap)
+[2018.01.06-12.26.02:350][  0]LogLoad: (Engine Initialization) Total time: 6.77 seconds
+[2018.01.06-12.26.02:350][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.06-12.26.02:572][  2]LogRenderer: Reallocating scene render targets to support 1368x768 Format 10 NumSamples 1 (Frame:1).
+[2018.01.06-12.26.04:001][  2]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.064833 > MaxSimulationTimeStep (0.050) for 'RebbitBody_78', movement 'Walking'
+[2018.01.06-12.26.11:439][ 74]LogUMG: Display: Widget Class HealthPer_C - Loaded Fast Template.
+[2018.01.06-12.26.11:496][ 74]LogSlate: Took 0.046138 seconds to synchronously load lazily loaded font '../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont' (160K)
+[2018.01.06-12.26.19:684][152]LogSlate: Request Window 'MyProject2 (64-bit, PCD3D_SM5)' being destroyed
+[2018.01.06-12.26.19:842][152]LogSlate: Window 'MyProject2 (64-bit, PCD3D_SM5)' being destroyed
+[2018.01.06-12.26.19:844][152]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.06-12.26.20:010][153]LogEngine: All Windows Closed
+[2018.01.06-12.26.20:010][153]LogWindows: FPlatformMisc::RequestExit(0)
+[2018.01.06-12.26.20:597][154]LogExit: Preparing to exit.
+[2018.01.06-12.26.20:597][154]LogMoviePlayer: Shutting down movie player
+[2018.01.06-12.26.20:638][154]LogExit: Game engine shut down
+[2018.01.06-12.26.20:729][154]LogExit: Object subsystem successfully closed.
+[2018.01.06-12.26.20:924][154]LogD3D11RHI: Shutdown
+[2018.01.06-12.26.20:924][154]LogD3D11RHI: CleanupD3DDevice
+[2018.01.06-12.26.21:073][154]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module AutomationController (163)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module AutomationWorker (161)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module Voice (159)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module AIModule (157)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module GameplayDebugger (156)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (153)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (151)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (149)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module Media (148)
+[2018.01.06-12.26.21:074][154]LogModuleManager: Shutting down and abandoning module CharacterAI (145)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module SessionServices (143)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (141)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module MovieScene (139)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module GeometryCache (137)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module Niagara (135)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (133)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module AnalyticsET (131)
+[2018.01.06-12.26.21:075][154]LogModuleManager: Shutting down and abandoning module ProfilerService (129)
+[2018.01.06-12.26.21:291][154]LogModuleManager: Shutting down and abandoning module TaskGraph (127)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module HTML5Networking (125)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module SteamVRController (123)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (121)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (119)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (117)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module CableComponent (115)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (113)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module AndroidPermission (111)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module OculusInput (109)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module MyProject2 (107)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module UdpMessaging (105)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module TcpMessaging (103)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module FacialAnimation (101)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (99)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (97)
+[2018.01.06-12.26.21:292][154]LogModuleManager: Shutting down and abandoning module PhysXVehicles (95)
+[2018.01.06-12.26.21:293][154]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (93)
+[2018.01.06-12.26.21:293][154]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (91)
+[2018.01.06-12.26.21:293][154]LogModuleManager: Shutting down and abandoning module Paper2D (89)
+[2018.01.06-12.26.21:293][154]LogModuleManager: Shutting down and abandoning module WmfMedia (87)
+[2018.01.06-12.26.21:293][154]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (85)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module PacketHandler (83)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (81)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module Overlay (79)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module MediaAssets (77)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module UMG (75)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module SlateReflector (73)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module Slate (71)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module MRMesh (69)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module Messaging (67)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (65)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module XAudio2 (63)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module Networking (61)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module Core (59)
+[2018.01.06-12.26.21:298][154]LogModuleManager: Shutting down and abandoning module LevelSequence (57)
+[2018.01.06-12.26.21:299][154]LogModuleManager: Shutting down and abandoning module ImageWrapper (53)
+[2018.01.06-12.26.21:299][154]LogModuleManager: Shutting down and abandoning module InputCore (51)
+[2018.01.06-12.26.21:299][154]LogModuleManager: Shutting down and abandoning module PhysXCooking (49)
+[2018.01.06-12.26.21:299][154]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (45)
+[2018.01.06-12.26.21:299][154]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.01.06-12.26.21:299][154]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.01.06-12.26.21:305][154]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.01.06-12.26.21:305][154]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.01.06-12.26.21:305][154]LogOnline: Display: Unloading online subsystem: Null
+[2018.01.06-12.26.21:306][154]LogModuleManager: Shutting down and abandoning module HTTP (39)
+[2018.01.06-12.26.21:306][154]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.06-12.26.21:306][154]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3FECC66B-4C36-FB27-A6B3-27B94CF2452E%7D&AppID=UEGame.Rocket.Release%7C57485F1D4975F8A41D04738A704A1134%7CThird%20Person%20BP%20Game%20Template&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=ANON-%7B2F08B670-4233-C59B-2D68-72AB105BB548%7D%7C%7C&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.06-12.26.21:306][154]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.01.06-12.26.21:806][154]LogHttp: Display: Sleeping 0.5s to wait for 1 outstanding Http requests.
+[2018.01.06-12.26.22:309][154]LogModuleManager: Shutting down and abandoning module SSL (38)
+[2018.01.06-12.26.22:309][154]LogModuleManager: Shutting down and abandoning module SteamVR (34)
+[2018.01.06-12.26.22:309][154]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (32)
+[2018.01.06-12.26.22:309][154]LogModuleManager: Shutting down and abandoning module OculusHMD (30)
+[2018.01.06-12.26.22:309][154]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.06-12.26.22:310][154]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.06-12.26.22:310][154]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.06-12.26.22:310][154]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.06-12.26.22:311][154]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.06-12.26.22:313][154]LogExit: Exiting.
+[2018.01.06-12.26.22:316][154]Log file closed, 01/06/18 15:26:22
